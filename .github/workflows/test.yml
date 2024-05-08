@@ -3,7 +3,7 @@ name: Flask App Testing
 on:
   push:
     branches:
-      - main  # Change this to your main branch name
+      - test  # Change this to your main branch name
 
 jobs:
   test:
