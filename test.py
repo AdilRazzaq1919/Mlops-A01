@@ -1,5 +1,4 @@
 import requests
-import json
 
 # Define the input data for prediction
 input_data = {
