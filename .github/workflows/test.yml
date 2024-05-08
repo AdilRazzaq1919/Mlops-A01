@@ -24,7 +24,8 @@ jobs:
           pip install pytest
           pip install Flask
           pip install pandas
-          pip install scikit-learn # Include any requirements your Flask app needs
+          pip install scikit-learn 
+          pip install requests
 
       - name: Start Flask app
         run: |
